@@ -2,6 +2,8 @@ A NodeJS script to grab all nominations from each award category on the subreddi
 
 ###Getting Started
 
+Run `npm install`
+
 Create a personal use script on Reddit to get your OAuth client key and OAuth secret.
 
 Enter relevant information in `keys.js`
