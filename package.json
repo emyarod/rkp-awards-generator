@@ -1,0 +1,20 @@
+{
+  "name": "rkp-awards-generator",
+  "version": "1.0.0",
+  "description": "A NodeJS script to grab all nominations from each award category on the subreddit and generate formatted tables showing  winners and runners-up.",
+  "main": "script.js",
+  "dependencies": {
+    "snoocore": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://emyarod@bitbucket.org/emyarod/rkp-awards-generator.git"
+  },
+  "author": "emyarod",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/emyarod/rkp-awards-generator#readme"
+}
